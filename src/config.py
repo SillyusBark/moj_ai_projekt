@@ -30,3 +30,5 @@ HOSTS_USER = "ubuntu"
 HOSTS_PORT = 22
 
 NUMBER_OF_PROCESSES_PER_NODE = 2
+
+GITHUB_REPO_URL = "git@github.com:SillyusBark/moj_ai_projekt.git"
